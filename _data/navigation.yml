@@ -5,6 +5,6 @@
 - name: physics
   link: /resources/physics
 - name: chemistry
-  link: resources/chemistry
+  link: /resources/chemistry
 - name: biology
-  link: resources/biology
+  link: /resources/biology
