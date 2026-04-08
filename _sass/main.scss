@@ -314,3 +314,17 @@ body {
   color: var(--footer-color);
   letter-spacing: 0.3px;
 }
+
+/* navigation bar */
+.navbar {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  height: 28px;
+  border-radius: 100px;
+  display: flex;
+  padding: 3px;
+  z-index: 100;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  gap: 10px;
+}
